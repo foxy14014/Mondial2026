@@ -565,3 +565,9 @@ Tous les résultats du mondial 2026, vous les trouverez ici!!
 </body>
 </html>
 ```
+
+    init();
+</script>
+</body>
+</html>
+```
